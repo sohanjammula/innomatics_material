@@ -1,0 +1,36 @@
+﻿Shortcut,Action,Category
+Ctrl + N,New workbook,File
+Ctrl + O,Open workbook,File
+Ctrl + S,Save workbook,File
+Ctrl + P,Print,File
+Ctrl + W,Close workbook,File
+Ctrl + C,Copy,Editing
+Ctrl + V,Paste,Editing
+Ctrl + X,Cut,Editing
+Ctrl + Z,Undo,Editing
+Ctrl + Y,Redo,Editing
+Ctrl + F,Find,Editing
+Ctrl + H,Replace,Editing
+Ctrl + A,Select all,Selection
+Ctrl + Space,Select entire column,Selection
+Shift + Space,Select entire row,Selection
+Ctrl + Shift + Arrow Keys,Select large data range,Selection
+Ctrl + Shift + L,Apply/Remove filters,Data
+Alt + =,AutoSum,Data
+F2,Edit active cell,Editing
+F4,Repeat last action,Editing
+F7,Spell check,Review
+F11,Create chart,Insert
+"Ctrl + Shift + ""+""",Insert new row/column,Structure
+"Ctrl + ""-""",Delete row/column,Structure
+Ctrl + Home,Go to first cell (A1),Navigation
+Ctrl + End,Go to last used cell,Navigation
+Ctrl + Arrow Keys,Jump to edge of data,Navigation
+Page Up / Page Down,Move one screen up/down,Navigation
+Tab / Shift + Tab,Move right/left,Navigation
+Enter / Shift + Enter,Move down/up,Navigation
+Ctrl + Shift + $,Apply currency format,Formatting
+Ctrl + Shift + %,Apply percentage format,Formatting
+Ctrl + Shift + #,Apply date format,Formatting
+Ctrl + Shift + @,Apply time format,Formatting
+Ctrl + Alt + V,Paste Special,Editing
